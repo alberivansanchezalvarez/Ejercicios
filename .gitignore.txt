@@ -1,0 +1,10 @@
+amiguitos/bin/Debug
+amiguitos/bin/Release
+amiguitos/obj/Debug
+amiguitos/obj/Release
+.vs/amiguitos
+amiguitos/bin/amiguitos.dll
+amiguitos/bin/amiguitos.dll.config
+amiguitos/bin/amiguitos.pdb
+amiguitos/obj
+amiguitos/tmp

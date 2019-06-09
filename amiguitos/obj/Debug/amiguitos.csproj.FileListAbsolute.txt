@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\bin\Debug\amiguitos.exe.config
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\bin\Debug\amiguitos.exe
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\bin\Debug\amiguitos.pdb
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\obj\Debug\amiguitos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\obj\Debug\amiguitos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\obj\Debug\amiguitos.exe
+C:\Users\Usuario\source\repos\amiguitos\amiguitos\obj\Debug\amiguitos.pdb
